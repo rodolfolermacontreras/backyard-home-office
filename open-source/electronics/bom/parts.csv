@@ -1,0 +1,7 @@
+Reference,Description,Quantity,Value,Footprint,Supplier,Part Number,Notes
+J1,Outdoor cable inlet,1,20A 125V,NEMA 5-20R,,,"Main power entry"
+OUT1,Wall outlet,3,15A 125V,NEMA 5-15R,,,
+L1,Ceiling light,1,LED panel,,,,"12W 4000K"
+V1,Ventilator,1,120V 50CFM,,,,"Ceiling mount"
+ETH1,Ethernet port,2,Cat6,RJ45 keystone,,,
+SC1,Solar charge controller,1,optional,,,,"For solar panel add-on"

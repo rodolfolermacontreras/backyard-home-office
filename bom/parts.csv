@@ -1,0 +1,22 @@
+Category,Part,Description,Quantity,Unit,Supplier,Notes
+Structure,Exterior wall panel,,8,ea,,,
+Structure,Interior wall panel,,8,ea,,,
+Structure,Roof panel,,4,ea,,,
+Structure,Floor panel,,1,ea,,,
+Structure,Panel connector bolt,M10 × 40mm,48,ea,,Stainless
+Structure,Structural sealant,Silicone weatherproof,3,tube,,
+Foundation,Adjustable foot,,6,ea,,Max 5° slope
+Foundation,Foot mounting bolt,M12 × 60mm,24,ea,,
+Electrical,Outdoor cable,12/2 UF-B,1,run,,"Customer supplies"
+Electrical,Wall outlet,NEMA 5-15R grounded,3,ea,,
+Electrical,Ceiling light,LED panel 12W,1,ea,,
+Electrical,Ventilator,120V 50CFM ceiling,1,ea,,
+Electrical,Ethernet port,Cat6 RJ45 keystone,2,ea,,
+Window,Tempered glass panel,5/16" tempered,4,ea,,
+Window,Window frame,,4,ea,,
+Window,Window seal,,4,set,,
+Door,Door assembly,Right or left,1,ea,,
+Door,Door hardware,Handle lock set,1,set,,
+Interior,Bookshelf,,1,ea,,
+Optional,Solar panel,,1,ea,,"With panel option"
+Optional,Solar charge controller,,1,ea,,"With panel option"
