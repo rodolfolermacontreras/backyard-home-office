@@ -13,45 +13,17 @@ Whether you're learning, customizing, or building your own version — the files
 ## Repo Layout
 
 ```
-thinking/           Design philosophy, research notes, vision docs
-  research/         User research, environmental studies
-  design/           Design decisions, material choices
-  vision/           Long-form thinking about the future of remote work
+cad/                3D design files
+  step/             WorkPod Pro — STEP files (opens in any CAD tool)
+  stl/              WorkPod Pro — STL files for 3D printing
+  studio-pod/       Studio Pod variant
+    step/
+    stl/
 
-classics/           Archive of past designs and notable community builds
-  designs/          Previous pod versions and concepts
-  builds/           Notable community builds
-
-learn/              How to build, install, and live in a WorkPod Pro
-  assembly/         Step-by-step installation guide
-    photos/         Installation photos (step-01.jpg, step-02.jpg...)
-    videos/         Video walkthroughs (links or files)
-  specs/            Spec sheets, dimensions, materials
-  images/           Diagrams and reference images
-
-open-source/        All open hardware files
-  cad/              3D design files
-    concept/        Sketches, early drafts, ideation
-    source/         Editable CAD (Fusion 360, FreeCAD, SolidWorks)
-    step/           STEP files (opens in any CAD tool)
-    stl/            STL files for 3D printing
-    drawings/       2D drawings, dimensions (PDF)
-  electronics/      Electrical system
-    schematics/     Wiring diagrams, circuit diagrams
-    pcb/            PCB design files (KiCad, Gerber)
-    bom/            Parts list for electronics
-    wiring/         Wiring diagrams, outlet layout, pinouts
-  firmware/         Code for smart controls (lighting, ventilation, sensors)
-  structure/        Structural engineering files, load calculations
-  foundation/       Foundation design, leveling details
-
-setups/             Real builds and configurations from the community
-  photos/           Setup photos
-  videos/           Walkthroughs and tours
-  community/        Community submitted setups
+electronics/        Electrical system
+  bom/              Electronics parts list
 
 bom/                Full bill of materials (all parts, prices, links)
-tools/              Scripts and helper tools
 ```
 
 ## Key Specs
@@ -78,19 +50,9 @@ git lfs install
 git clone https://github.com/autonomous-ai/autonomous-pod.git
 ```
 
-## Want to Build One?
-
-1. Read [learn/assembly/README.md](learn/assembly/README.md)
-2. Get the parts from [bom/](bom/)
-3. Review structural files in [open-source/structure/](open-source/structure/)
-4. Follow the foundation guide in [open-source/foundation/](open-source/foundation/)
-5. Flash any smart controls from [open-source/firmware/](open-source/firmware/)
-
 ## Want to Contribute?
 
-- Share your build in [setups/](setups/)
-- Upload CAD to [open-source/cad/source/](open-source/cad/source/) with STEP export
-- Add installation photos to [learn/assembly/photos/](learn/assembly/photos/)
+- Upload CAD to [cad/](cad/) with STEP export
 - Open an Issue if something is broken or unclear
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
