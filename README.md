@@ -13,17 +13,20 @@ Whether you're learning, customizing, or building your own version — the files
 ## Repo Layout
 
 ```
-cad/                3D design files
-  step/             WorkPod Pro — STEP files (opens in any CAD tool)
-  stl/              WorkPod Pro — STL files for 3D printing
-  studio-pod/       Studio Pod variant
+cad/                  3D design files
+  step/               WorkPod Pro — STEP files (opens in any CAD tool)
+  stl/                WorkPod Pro — STL files for 3D printing
+  studio-pod/         Studio Pod variant
+    step/
+    stl/
+  workpod-mini/       WorkPod Mini variant
     step/
     stl/
 
-electronics/        Electrical system
-  bom/              Electronics parts list
+electronics/          Electrical system
+  bom/                Electronics parts list
 
-bom/                Full bill of materials (all parts, prices, links)
+bom/                  Full bill of materials (all parts, prices, links)
 ```
 
 ## Key Specs

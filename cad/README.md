@@ -1,13 +1,16 @@
 # CAD
 
-3D design files for the WorkPod Pro and Studio Pod.
+3D design files for the WorkPod Pro, Studio Pod, and WorkPod Mini.
 
 ## Folders
 
 ```
-step/           WorkPod Pro — STEP exports (works in any CAD tool)
-stl/            WorkPod Pro — STL exports for 3D printing
-studio-pod/     Studio Pod variant
+step/             WorkPod Pro — STEP exports (works in any CAD tool)
+stl/              WorkPod Pro — STL exports for 3D printing
+studio-pod/       Studio Pod variant
+  step/
+  stl/
+workpod-mini/     WorkPod Mini variant
   step/
   stl/
 ```
