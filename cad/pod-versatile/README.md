@@ -1,18 +1,27 @@
-# Studio Pod CAD
+# WorkPod Versatile — CAD Files
 
-3D design files for the Autonomous Studio Pod.
+Large creative studio. Three full glass walls, maximum light, configured as a backyard homelab or studio.
+
+| | |
+|---|---|
+| Floor area | 105 sqft |
+| Ceiling height | 7.25' flat |
+| Foundation | 6 adjustable feet, 5° slope |
+| Weight capacity | 2.9 tons |
+| Comfort range | 45–100°F |
+| Electrical | 5 wall outlets, 4 ceiling lights, 2 Ethernet ports, 1 ventilator |
+| Glass walls | 3 full glass walls |
+| Installation | 1–2 days, no slab required |
 
 ## Folders
 
-```
-stl/    STL files ready to 3D print or preview
-step/   STEP files (opens in any CAD tool)
-```
+- `step/` — STEP files (opens in Fusion 360, FreeCAD, SolidWorks, etc.)
+- `stl/` — STL files for 3D printing or previewing
 
 ## Parts
 
 | Group | Files |
-|-------|-------|
+|---|---|
 | Full assembly | `studio-pod-assembly_v1` |
 | Foundation | `foundation-adjustable-base_v1` |
 | Floor base frames | `floor-base-frame-main/back/front/mid/left-a/left-b/right-a/right-b_v1` |
@@ -26,3 +35,7 @@ step/   STEP files (opens in any CAD tool)
 | Ventilation | `vent-cover_v1` |
 | Electrical | `electrical-cabinet_v1` |
 | Furniture | `furniture-1/2/3/4_v1` |
+
+## File Naming
+
+`part-name_v1.stp` / `part-name_v1.stl`

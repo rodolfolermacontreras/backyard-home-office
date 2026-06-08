@@ -1,25 +1,44 @@
-# Autonomous WorkPod 
+# Autonomous WorkPod
 
-![Autonomous WorkPod Core](pod_banner.png)
+![Autonomous WorkPod](pod_banner.png)
 
 Your office is 5 steps from the house. Plug one cable, skip permits, enter deep work.
 
 ## What is this?
 
-Open hardware for a backyard office pod. 102 sqft. Below permit threshold. One plug. No slab.
+Open hardware for a backyard office pod. Below permit threshold. One plug. No slab.
 
 Whether you're learning, customizing, or building your own version — the files are here.
+
+## Pod Lineup
+
+| | [WorkPod Core](cad/pod-core/) | [WorkPod Pro](cad/pod-pro/) | [WorkPod Versatile](cad/pod-versatile/) |
+|---|---|---|---|
+| Floor area | 80 sqft | 102 sqft | 105 sqft |
+| Ceiling height | 7.25' flat | 6.8'–9.3' sloped | 7.25' flat |
+| Foundation | 4 adjustable feet | 6 adjustable feet | 6 adjustable feet |
+| Weight capacity | 2.3 tons | 2.9 tons | 2.9 tons |
+| Outlets | 2 wall | 2 wall + 1 floor | 5 wall |
+| Lighting | 1 ceiling light | 1 ceiling light | 4 ceiling lights |
+| Ethernet | 2 ports | — | 2 ports |
+| Ventilator | — | Yes | Yes |
+| Glass walls | 1 | 1 | 3 |
+| Comfort range | — | 45–100°F | 45–100°F |
+| Installation | 1–2 days | 1–2 days | 1–2 days |
+
+All models: single outdoor cable from house, no excavation, no concrete, 5° slope tolerance, 7-layer wall system.
 
 ## Repo Layout
 
 ```
 cad/                  3D design files
-  step/               WorkPod Pro — STEP files (opens in any CAD tool)
-  stl/                WorkPod Pro — STL files for 3D printing
-  studio-pod/         Studio Pod variant
+  pod-pro/            WorkPod Pro
+    step/             STEP files (opens in any CAD tool)
+    stl/              STL files for 3D printing
+  pod-versatile/      WorkPod Versatile
     step/
     stl/
-  pod-core/           Pod Core
+  pod-core/           WorkPod Core
     step/
     stl/
 
@@ -28,19 +47,6 @@ electronics/          Electrical system
 
 bom/                  Full bill of materials (all parts, prices, links)
 ```
-
-## Key Specs
-
-| | |
-|---|---|
-| Floor area | 102 sqft |
-| Ceiling height | 6.8' to 9.3' |
-| Comfort range | 45–100°F |
-| Glass | 5/16" tempered |
-| Insulation layers | 6 |
-| Foundation | 6 adjustable feet, 5° slope, 2.9 ton capacity |
-| Electrical | 3 outlets, 1 ceiling light, 1 ventilator, 2 Ethernet ports |
-| Installation | 1–2 days, no slab required |
 
 ## Big Files: Git LFS
 

@@ -1,6 +1,15 @@
-# Pod Core — CAD Files
+# WorkPod Core — CAD Files
 
-3D design files for the Pod Core.
+Compact backyard office. Simple, distraction-free workspace.
+
+| | |
+|---|---|
+| Floor area | 80 sqft |
+| Ceiling height | 7.25' flat |
+| Foundation | 4 adjustable feet, 5° slope |
+| Weight capacity | 2.3 tons |
+| Electrical | 2 wall outlets, 1 ceiling light, 2 Ethernet ports |
+| Installation | 1–2 days, no slab required |
 
 ## Folders
 
