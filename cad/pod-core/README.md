@@ -1,6 +1,6 @@
-# WorkPod Mini — CAD Files
+# Pod Core — CAD Files
 
-3D design files for the WorkPod Mini.
+3D design files for the Pod Core.
 
 ## Folders
 

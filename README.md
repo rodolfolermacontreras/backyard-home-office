@@ -19,7 +19,7 @@ cad/                  3D design files
   studio-pod/         Studio Pod variant
     step/
     stl/
-  workpod-mini/       WorkPod Mini variant
+  pod-core/           Pod Core
     step/
     stl/
 
