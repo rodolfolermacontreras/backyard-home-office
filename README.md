@@ -10,6 +10,12 @@ Open hardware for a backyard office pod. Below permit threshold. One plug. No sl
 
 Whether you're learning, customizing, or building your own version — the files are here.
 
+## 👶 New to building? Start with the Beginner Guide
+
+If you've never built anything, don't start with the CAD files. Start here:
+**[guide/README.md](guide/README.md)** — plain-English checklists, step-by-step build,
+schematics, and an El Paso, TX permit + shopping guide.
+
 ## Pod Lineup
 
 | | [WorkPod Core](cad/pod-core/) | [WorkPod Pro](cad/pod-pro/) | [WorkPod Versatile](cad/pod-versatile/) |
