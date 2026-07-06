@@ -30,14 +30,14 @@ flowchart LR
 - [ ] Roughly level the dirt — it does **not** need to be perfect (the feet adjust up to 5°).
 - [ ] Lay a paver + a bit of gravel where each foot will land (a firm pad stops sinking).
 
-**Footprint layout (Core, ~8 ft × 10 ft — confirm with CAD):**
+**Footprint layout (Core, ≈ 8.4 ft × 11.3 ft outer — measured from CAD, see [guide 5](05-measurements.md)):**
 
 ```
-        10 ft (approx)
+        11.3 ft (outer)
    ┌───────────────────────┐
    │ ●                   ● │   ● = adjustable foot (x4)
    │      FLOOR AREA       │
-   │      80 sq ft         │   8 ft (approx)
+   │   ~80 sq ft interior  │   8.4 ft (outer)
    │ ●                   ● │
    └───────────────────────┘
         DOOR side (front)

@@ -1,0 +1,26 @@
+Phase,Category,Item,Size (from CAD/BOM),Qty,Unit,Est Unit Cost USD,Est Line Cost USD,Where to Buy (El Paso),Notes
+Structure,Panels,Exterior wall panel,~7.7 ft tall x ~2 in thick,8,ea,300,2400,SIP supplier / local fabricator,Cut to CAD; DIY 2x4+foam is cheaper
+Structure,Panels,Interior wall panel,~7.7 ft tall,8,ea,120,960,SIP supplier / fabricator,Pairs with exterior panel
+Structure,Panels,Roof panel,~8.4 ft wide,4,ea,250,1000,SIP supplier / fabricator,Flat roof (Core)
+Structure,Panels,Floor panel,~8.4 x 11.3 ft,1,ea,400,400,SIP supplier / fabricator,Sits on floor frame
+Structure,Fasteners,Panel connector bolt M10 x 40mm,M10 x 40mm stainless,48,ea,0.80,38,Home Depot / Lowe's / Fastenal,Stainless hex cap
+Structure,Sealant,Structural sealant,Silicone weatherproof,3,tube,8,24,Home Depot / Lowe's,Seal every outside seam
+Foundation,Feet,Adjustable foot,~11 in sq base ~12.7 in tall,4,ea,60,240,Home Depot / Lowe's,Screw-jack / adjustable post base
+Foundation,Fasteners,Foot mounting bolt M12 x 60mm,M12 x 60mm zinc,24,ea,0.90,22,Home Depot / Lowe's / Fastenal,
+Foundation,Pads,Paver pad + gravel,16x16 in paver + base,4,set,15,60,Home Depot / Lowe's garden,One firm pad under each foot
+Window,Glass,Tempered glass panel,5/16 in tempered ~33 x 89 in,1,ea,500,500,Local glass shop,Order to exact opening AFTER wall is built
+Window,Frame,Window frame,Fits glass leaf,1,set,150,150,Glass shop / fabricator,
+Window,Seal,Window seal,,1,set,40,40,Glass shop / hardware,
+Door,Door,Door assembly,Right or left hand,1,ea,400,400,Fabricator / home center,Confirm swing direction
+Door,Hardware,Door hardware,Handle + lock set,1,set,60,60,Home Depot / Lowe's,Exterior-rated lockset
+Electrical,Cable,Outdoor cable 12/2 UF-B,Direct burial,50,ft,1.20,60,Home Depot / Lowe's / supply house,Length = house to pod + 10 ft slack
+Electrical,Outlets,Wall outlet GFCI,15A 125V NEMA 5-15R,2,ea,20,40,Home Depot / Lowe's,GFCI for damp-location safety
+Electrical,Light,Ceiling LED light,12W 4000K panel,1,ea,40,40,Home Depot / Lowe's,Add a wall switch by the door
+Electrical,Panel,Subpanel + 20A breaker,Small load center,1,set,120,120,Home Depot / supply house,Electrician confirms
+Electrical,Disconnect,Weatherproof disconnect,Outdoor rated,1,ea,40,40,Home Depot / supply house,Where cable enters pod
+Electrical,Conduit,Conduit + fittings,As needed,1,lot,60,60,Home Depot / Lowe's,Protect above-ground cable
+Electrical,Data,Ethernet Cat6 + keystones,Cat6 + 2 RJ45,1,set,40,40,Home Depot / Amazon,Optional; low-voltage no permit
+Comfort,HVAC,Mini-split AC,6000-9000 BTU,1,ea,1000,1000,Home center / HVAC supplier,El Paso essential; or portable AC
+Labor,Permit,Electrician labor + electrical permit,,1,job,1400,1400,Licensed electrician,Includes ~200 dollar permit deposit
+Tools,Kit,Starter tool kit,Drill/driver/saw/level/etc,1,set,650,650,Home Depot / Harbor Freight,Skip if you already own tools; rent big items
+TOTAL,,Estimated project total (excl. tax),,,,,9744,,Panels are the biggest variable - DIY framed walls can cut this a lot

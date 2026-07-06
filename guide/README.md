@@ -35,6 +35,8 @@ Expect **2–4 weekends** for a first-timer working with one helper.
 | 2 | [02-materials-and-tools.md](02-materials-and-tools.md) | Shopping list: materials + every tool, with checkboxes |
 | 3 | [03-step-by-step-build.md](03-step-by-step-build.md) | The actual build, step by step, with diagrams |
 | 4 | [04-electrical-wiring.md](04-electrical-wiring.md) | Power wiring diagram + what the electrician does |
+| 5 | [05-measurements.md](05-measurements.md) | **Real dimensions** measured from the CAD files |
+| 📄 | [cut-list-and-costs.csv](cut-list-and-costs.csv) | **Printable shopping spreadsheet** (opens in Excel/Sheets) |
 
 ---
 
@@ -44,16 +46,16 @@ Expect **2–4 weekends** for a first-timer working with one helper.
 
 | | **Core (👈 recommended)** | Pro | Versatile |
 |---|---|---|---|
-| Size | 80 sq ft (~8 ft × 10 ft) | 102 sq ft | 105 sq ft |
+| Size | 80 sq ft interior (~8.4 × 11.3 ft outer) | 102 sq ft | 105 sq ft |
 | Feet to level | **4** (easiest) | 6 | 6 |
 | Roof | **Flat** (simplest) | Sloped (harder) | Flat |
 | Electrical | **2 outlets, 1 light** (simple) | +floor outlet, fan | 5 outlets, 4 lights, fan |
 | Glass walls | **1** (fewer to seal) | 1 | 3 (most sealing/leak risk) |
 | Best for | **Your first build** | More elbow room | Studio / lots of light |
 
-> ⚠️ The exact dimensions live in the CAD files (`cad/pod-core/step/`). Numbers like
-> "8 ft × 10 ft" in this guide are **approximate** so you can plan and shop. Always confirm
-> final sizes against the CAD before you cut anything.
+> ✅ Real dimensions were measured from the CAD files — see **[05-measurements.md](05-measurements.md)**.
+> The Core is **≈ 8.4 ft × 11.3 ft outer** (~80 sq ft interior), walls **≈ 7.7 ft tall**. Always
+> confirm the exact size against the STEP file before you cut anything.
 
 ---
 
